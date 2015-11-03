@@ -1,2 +1,18 @@
 # codingTemplate
-Template for web coding. Requires bower, npm and grunt installed
+<h1>Free coding template</h1>
+Requires bower, npm and grunt installed.
+Follow steps below
+<h2>Install node.js</h2>
+Download and install node.js from <a href="https://nodejs.org">official website.</a>
+<h2>Install bower</h2>
+In next step you have to install bower package manager. You can do it via Node package manager (installed in previous step)
+run command: npm install -g bower
+<h2>Install grunt</h2>
+Last thing you need to do is install Grunt, javascript task runner. It makes development easier and faster.
+Run command: npm install -g grunt-cli
+<h2>Running</h2>
+Once you have installed everything run command: npm install, it will install all dependencies from package.json.
+Then type command: grunt, that run configuration from Gruntfile.js
+  <h3>Conclusion</h3>
+  For further details visit official sites of <a href="https://nodejs.org">node.js</a>, <a href="https://www.npmjs.com">Bower</a>
+  and <a href="http://gruntjs.com/">Grunt</a>
