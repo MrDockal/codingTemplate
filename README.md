@@ -10,7 +10,7 @@ run command: <code>npm install -g bower</code>
 Last thing you need to do is install Grunt, javascript task runner. It makes development easier and faster.
 Run command: <code>npm install -g grunt-cli</code>
 <h2>Running</h2>
-Once you have installed everything run command: npm install, it will install all dependencies from package.json.
+Once you have installed everything run command: <code>npm install</code>, it will install all dependencies from package.json.
 Then type command: <code>grunt</code>, that run configuration from Gruntfile.js. Now Grunt should open new window in internet
 browser and you should see <strong>Hellos</strong>.
   <h3>Conclusion</h3>
